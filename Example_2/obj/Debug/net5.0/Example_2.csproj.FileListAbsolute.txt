@@ -1,0 +1,15 @@
+/Users/sergeytatoyan/Desktop/SimpleClassExample/Example_2/bin/Debug/net5.0/Example_2.deps.json
+/Users/sergeytatoyan/Desktop/SimpleClassExample/Example_2/bin/Debug/net5.0/Example_2.runtimeconfig.json
+/Users/sergeytatoyan/Desktop/SimpleClassExample/Example_2/bin/Debug/net5.0/Example_2.runtimeconfig.dev.json
+/Users/sergeytatoyan/Desktop/SimpleClassExample/Example_2/bin/Debug/net5.0/Example_2.dll
+/Users/sergeytatoyan/Desktop/SimpleClassExample/Example_2/bin/Debug/net5.0/ref/Example_2.dll
+/Users/sergeytatoyan/Desktop/SimpleClassExample/Example_2/bin/Debug/net5.0/Example_2.pdb
+/Users/sergeytatoyan/Desktop/SimpleClassExample/Example_2/obj/Debug/net5.0/Example_2.csprojAssemblyReference.cache
+/Users/sergeytatoyan/Desktop/SimpleClassExample/Example_2/obj/Debug/net5.0/Example_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeytatoyan/Desktop/SimpleClassExample/Example_2/obj/Debug/net5.0/Example_2.AssemblyInfoInputs.cache
+/Users/sergeytatoyan/Desktop/SimpleClassExample/Example_2/obj/Debug/net5.0/Example_2.AssemblyInfo.cs
+/Users/sergeytatoyan/Desktop/SimpleClassExample/Example_2/obj/Debug/net5.0/Example_2.csproj.CoreCompileInputs.cache
+/Users/sergeytatoyan/Desktop/SimpleClassExample/Example_2/obj/Debug/net5.0/Example_2.dll
+/Users/sergeytatoyan/Desktop/SimpleClassExample/Example_2/obj/Debug/net5.0/ref/Example_2.dll
+/Users/sergeytatoyan/Desktop/SimpleClassExample/Example_2/obj/Debug/net5.0/Example_2.pdb
+/Users/sergeytatoyan/Desktop/SimpleClassExample/Example_2/obj/Debug/net5.0/Example_2.genruntimeconfig.cache
