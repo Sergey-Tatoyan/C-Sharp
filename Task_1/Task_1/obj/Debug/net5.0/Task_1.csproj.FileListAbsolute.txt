@@ -1,0 +1,15 @@
+/Users/sergeytatoyan/Desktop/sergey_learn_dotnet/Task_1/Task_1/bin/Debug/net5.0/Task_1.deps.json
+/Users/sergeytatoyan/Desktop/sergey_learn_dotnet/Task_1/Task_1/bin/Debug/net5.0/Task_1.runtimeconfig.json
+/Users/sergeytatoyan/Desktop/sergey_learn_dotnet/Task_1/Task_1/bin/Debug/net5.0/Task_1.runtimeconfig.dev.json
+/Users/sergeytatoyan/Desktop/sergey_learn_dotnet/Task_1/Task_1/bin/Debug/net5.0/Task_1.dll
+/Users/sergeytatoyan/Desktop/sergey_learn_dotnet/Task_1/Task_1/bin/Debug/net5.0/ref/Task_1.dll
+/Users/sergeytatoyan/Desktop/sergey_learn_dotnet/Task_1/Task_1/bin/Debug/net5.0/Task_1.pdb
+/Users/sergeytatoyan/Desktop/sergey_learn_dotnet/Task_1/Task_1/obj/Debug/net5.0/Task_1.csprojAssemblyReference.cache
+/Users/sergeytatoyan/Desktop/sergey_learn_dotnet/Task_1/Task_1/obj/Debug/net5.0/Task_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeytatoyan/Desktop/sergey_learn_dotnet/Task_1/Task_1/obj/Debug/net5.0/Task_1.AssemblyInfoInputs.cache
+/Users/sergeytatoyan/Desktop/sergey_learn_dotnet/Task_1/Task_1/obj/Debug/net5.0/Task_1.AssemblyInfo.cs
+/Users/sergeytatoyan/Desktop/sergey_learn_dotnet/Task_1/Task_1/obj/Debug/net5.0/Task_1.csproj.CoreCompileInputs.cache
+/Users/sergeytatoyan/Desktop/sergey_learn_dotnet/Task_1/Task_1/obj/Debug/net5.0/Task_1.dll
+/Users/sergeytatoyan/Desktop/sergey_learn_dotnet/Task_1/Task_1/obj/Debug/net5.0/ref/Task_1.dll
+/Users/sergeytatoyan/Desktop/sergey_learn_dotnet/Task_1/Task_1/obj/Debug/net5.0/Task_1.pdb
+/Users/sergeytatoyan/Desktop/sergey_learn_dotnet/Task_1/Task_1/obj/Debug/net5.0/Task_1.genruntimeconfig.cache

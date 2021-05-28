@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+2pFr5nfrf00QtuxFViU12zD1eRYIF9LGpjmIdtSiK9CH1vQSjotdGzwu8QptEF7KKZiekt3MkkLGt3hrEpcsw==",
+  "success": true,
+  "projectFilePath": "/Users/sergeytatoyan/Desktop/sergey_learn_dotnet/Task_7/Task_7/Task_7.csproj",
+  "expectedPackageFiles": [
+    "/Users/sergeytatoyan/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

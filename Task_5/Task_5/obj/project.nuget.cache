@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8y3cx1mxzQX+ZAzfWs9s0L1iQT7zdebU2A9V2ngMwJpv73pz01uRfhA/UUn3QEFRHm+hSmHNl+99OrITwNla5Q==",
+  "success": true,
+  "projectFilePath": "/Users/sergeytatoyan/Desktop/sergey_learn_dotnet/Task_5/Task_5/Task_5.csproj",
+  "expectedPackageFiles": [
+    "/Users/sergeytatoyan/.nuget/packages/bogus/33.0.2/bogus.33.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
